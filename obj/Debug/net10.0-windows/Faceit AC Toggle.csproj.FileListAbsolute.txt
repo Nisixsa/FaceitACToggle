@@ -1,0 +1,22 @@
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Debug\net10.0-windows\Faceit AC Toggle.exe
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Debug\net10.0-windows\Faceit AC Toggle.deps.json
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Debug\net10.0-windows\Faceit AC Toggle.runtimeconfig.json
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Debug\net10.0-windows\Faceit AC Toggle.dll
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Debug\net10.0-windows\Faceit AC Toggle.pdb
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle_MarkupCompile.cache
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.g.resources
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.AssemblyInfoInputs.cache
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.AssemblyInfo.cs
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.csproj.CoreCompileInputs.cache
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.dll
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\refint\Faceit AC Toggle.dll
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.pdb
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle.genruntimeconfig.cache
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\ref\Faceit AC Toggle.dll
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Faceit AC Toggle_MarkupCompile.lref
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\obj\Debug\net10.0-windows\Themes\Generic.baml

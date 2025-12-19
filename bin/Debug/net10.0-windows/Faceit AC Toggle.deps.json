@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Faceit AC Toggle/1.1.1": {
+        "runtime": {
+          "Faceit AC Toggle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faceit AC Toggle/1.1.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

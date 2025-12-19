@@ -1,0 +1,5 @@
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Release\net10.0-windows\publish\Faceit AC Toggle.exe
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Release\net10.0-windows\publish\Faceit AC Toggle.dll
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Release\net10.0-windows\publish\Faceit AC Toggle.deps.json
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Release\net10.0-windows\publish\Faceit AC Toggle.runtimeconfig.json
+C:\Users\Nisixsa\source\repos\Faceit AC Toggle\Faceit AC Toggle\bin\Release\net10.0-windows\publish\Faceit AC Toggle.pdb
